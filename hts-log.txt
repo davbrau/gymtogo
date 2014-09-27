@@ -1,0 +1,44 @@
+HTTrack3.48-19+htsswf+htsjava launched on Sat, 27 Sep 2014 02:45:20 at http://www.fitisimo.dev http://www.fitisimo.dev/order-complete http://www.fitisimo.dev/privacy +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.fitisimo.dev http://www.fitisimo.dev/order-complete http://www.fitisimo.dev/privacy -O1 "C:\My Web Sites\test\gymtogo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:45:23	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/plugins/really-static/static/feed/ (from www.fitisimo.dev/)
+02:45:23	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/plugins/really-static/static/comments/feed/ (from www.fitisimo.dev/)
+02:45:23	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/plugins/really-static/static/home-multi-layer-parallax/feed/ (from www.fitisimo.dev/)
+02:45:25	Warning: 	Moved Permanently for www.fitisimo.dev/wp-content/plugins/really-static/static
+02:45:25	Warning: 	File has moved from www.fitisimo.dev/wp-content/plugins/really-static/static to http://www.fitisimo.dev/wp-content/plugins/really-static/static/
+02:45:25	Error: 	Unable to save file C:/My Web Sites/test/gymtogo/www.fitisimo.dev/wp-content/plugins/really-static/static: Permission denied
+02:45:36	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/plugins/really-static/static/order-complete/feed/ (from www.fitisimo.dev/order-complete)
+02:45:36	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/plugins/really-static/static/privacy/feed/ (from www.fitisimo.dev/privacy)
+02:45:36	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/plugins/really-static/static/wp-content/plugins/really-static/static (from www.fitisimo.dev/wp-content/plugins/really-static/static/)
+02:45:36	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/plugins/really-static/static/wp-content/uploads/2014/09/Gymtogo-logo-grey.png (from www.fitisimo.dev/wp-content/plugins/really-static/static/)
+02:45:36	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/plugins/really-static/static/wp-content/uploads/2014/09/Gymtogo-logo-fitted.png (from www.fitisimo.dev/wp-content/plugins/really-static/static/)
+02:45:36	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/plugins/really-static/static/wp-content/uploads/2014/09/Gymtogo-logo-dark-fitted.png (from www.fitisimo.dev/wp-content/plugins/really-static/static/)
+02:45:45	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/vimeo-header-black.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:45	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/behance-header-black.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:48	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/stock/icons/magnify.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:48	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/stock/icons/link.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:48	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/stock/icons/image.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:50	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/stock/icons/video.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:50	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/facebook.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:50	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/twitter.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:50	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/vimeo.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:52	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/dribbble.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:52	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/rss.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:52	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/skype.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:52	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/pinterest.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:54	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/google-plus.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:54	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/tumblr.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:54	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/youtube.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:54	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/linked-in.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:54	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/behance.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:55	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/instagram.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:55	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/vimeo-header.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+02:45:56	Error: 	"Not Found" (404) at link www.fitisimo.dev/wp-content/themes/salient/img/icons/social/behance-header.png (from www.fitisimo.dev/wp-content/themes/salient/style.css?ver=4.5.2)
+
+HTTrack Website Copier/3.48-19 mirror complete in 37 seconds : 191 links scanned, 159 files written (4578181 bytes overall), 3 files updated [819949 bytes received at 22160 bytes/sec], 15.9 requests per connection
+(31 errors, 2 warnings, 0 messages)
